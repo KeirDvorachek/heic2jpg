@@ -10,8 +10,8 @@ This tool lets you transfer photos in their native HEIC format (fast), then batc
 ## Features 
 - ✅ HEIC to JPG conversion
 - ✅ Batch directory processing
-- ✅ EXIF metadata preservation
-- ✅ Automatic image orientation correction
+- 🚧 EXIF metadata preservation (in progress)
+- 🚧 Automatic image orientation correction (in progress)
 - 🚧 Face detection and tagging (planned)
 
 ## Installation
