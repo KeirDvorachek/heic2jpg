@@ -10,7 +10,7 @@ register_heif_opener()
 
 #Grabs the dropped folder from the .bat file.
 path = sys.argv[1]
-#path = f"F:\Projects\Development\Python\ProblemChildren"
+#path = f"insert heic folder path here between the double qoutes if desired"
 #Creating new folders to drop processed and unprocessed files in their perspective bin.
 jpgDir = path + "/ProcessedImages"
 heicDir = path + "/HEICImages"
